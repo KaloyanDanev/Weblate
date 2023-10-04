@@ -1,4 +1,4 @@
 {
-    "goodbye": "чао",
+    "goodbye": "чао2",
     "hello": "здр"
 }
